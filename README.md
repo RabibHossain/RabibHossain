@@ -4,7 +4,7 @@
      src="https://www.jetbrains.com/space/features/img/projects/partyparrot.gif" 
      alt="Alt text" 
      title="Optional title"
-     style="width: 20px; display: inline-block;"> Catch me anytime **galib.rabib@gmail.com**
+     style="width: 20px; display: inline-block;"> Make official commit! **galib.rabib@gmail.com**
 <!-- <hr> -->
 
 - <strong>Networks:</strong> <a href="https://linkedin.com/in/rabibgalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabibgalib" height="40" width="40" /></a>
