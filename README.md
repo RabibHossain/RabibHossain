@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <img 
      src="https://www.jetbrains.com/space/features/img/projects/partyparrot.gif" 
