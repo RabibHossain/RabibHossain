@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://www.jetbrains.com/space/features/img/projects/partyparrot.gif" alt="Alt text" title="Optional title">
+
 <!--
 **RabibHossain/RabibHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
