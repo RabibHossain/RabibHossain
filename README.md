@@ -5,7 +5,7 @@
      alt="Alt text" 
      title="Optional title"
      style="width: 20px; display: inline-block;"> Catch me anytime **galib.rabib@gmail.com**
-<hr>
+<!-- <hr> -->
 
 - <strong>Networks:</strong> <a href="https://linkedin.com/in/rabibgalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabibgalib" height="30" width="40" /></a>
 <a href="https://medium.com/@galib-rabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@galib-rabib" height="30" width="40" /></a>
