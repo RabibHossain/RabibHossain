@@ -1,9 +1,9 @@
-### Hi there 
+### Peace be upon you 
 <img 
      src="https://www.jetbrains.com/space/features/img/projects/partyparrot.gif" 
      alt="Alt text" 
      title="Optional title"
-     style="display: inline-block; margin: 0 auto; max-width: 15%">
+     style="width: 20%; display: inline-block;">
 
 <!--
 **RabibHossain/RabibHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
