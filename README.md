@@ -72,4 +72,4 @@ Here are some ideas to get you started:
      src="https://www.jetbrains.com/space/features/img/projects/partyparrot.gif" 
      alt="Alt text" 
      title="Optional title"
-     style="width: 20px; display: inline-block;">
+     style="width: 20px; display: inline-block;"> <a href="https://wakatime.com/@1ca428f8-b90b-4ed8-b2c1-1870e44de261"><img src="https://wakatime.com/badge/user/1ca428f8-b90b-4ed8-b2c1-1870e44de261.svg" alt="Total time coded since Apr 27 2022" /></a>     
