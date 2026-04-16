@@ -1,14 +1,23 @@
 <h2 align="center">🕊️ Peace be upon you</h2>
 <h3 align="center">Rabib Galib</h3>
+
 <p align="center">
 Backend Engineer • Distributed Systems • AdTech
 </p>
 
 <p align="center">
-<a href="mailto:galib.rabib@gmail.com">📫 Email</a> • 
-<a href="https://linkedin.com/in/rabibgalib">LinkedIn</a> • 
-<a href="https://medium.com/@galib-rabib">Medium</a> • 
-<a href="https://www.hackerrank.com/galib_rabib">HackerRank</a>
+  <a href="mailto:galib.rabib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/rabibgalib">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://medium.com/@galib-rabib">
+    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" />
+  </a>
+  <a href="https://www.hackerrank.com/galib_rabib">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" />
+  </a>
 </p>
 
 ---
