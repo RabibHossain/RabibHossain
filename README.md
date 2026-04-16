@@ -1,75 +1,78 @@
 ### 🕊️ Peace be upon you
 **Official Commit:** [galib.rabib@gmail.com](mailto:galib.rabib@gmail.com)
-<!-- <hr> -->
 
-- <strong>🌐 Networks:</strong> <a href="https://linkedin.com/in/rabibgalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabibgalib" height="20" width="20" /></a>
-<a href="https://medium.com/@galib-rabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@galib-rabib" height="20" width="20" /></a>
-<a href="https://www.hackerrank.com/galib_rabib" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Hacker Rank" height="20" width="20" /></a>
+---
 
-- <strong>🔧 Backend:</strong> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
-<!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-<!-- <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> -->
-
-- <strong>💾 Database:</strong>
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-
-
-- <strong>🧱 Frameworks:</strong>
-     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/958072?s=40&v=4" alt="laravel" width="40" height="40"/></a>
-     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+### 🌐 Networks
+<p>
+<a href="https://linkedin.com/in/rabibgalib" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"/>
+</a>
+<a href="https://medium.com/@galib-rabib" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="20" width="20"/>
+</a>
+<a href="https://www.hackerrank.com/galib_rabib" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="20" width="20"/>
+</a>
 </p>
 
-- <strong>🖥️ Server Management:</strong>
-     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></a>
-     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+---
+
+### 🔧 Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
 </p>
 
-- <strong>📦 Code/API/Project Management:</strong>
-     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="docker" width="40" height="40"/></a>
-     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/168166?s=40&v=4" alt="Jira" width="40" height="40"/></a>
-     <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" alt="Slack" width="40" height="40"/></a>
+---
+
+### 💾 Database
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
 </p>
 
+---
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabibhossain&show_icons=true&locale=en" alt="rabibhossain" /></p>
--->
+### 🧱 Frameworks
+<p>
+<img src="https://avatars.githubusercontent.com/u/958072?s=40&v=4" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+</p>
 
+---
 
-<!-- 
-Find me on  [<img alt="alt_text" width="90px" src="https://github.com/RabibHossain/RabibHossain/blob/portfolio-logos/medium-logo.webp" />](https://galib-rabib.medium.com/)  [<img alt="alt_text" width="70px" src="https://github.com/RabibHossain/RabibHossain/blob/portfolio-logos/LinkedIn_Logo.svg.png" />]([https://www.google.com/](https://www.linkedin.com/in/rabibgalib/))
+### 🖥️ Server Management
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+</p>
 
+---
 
--->
+### 📦 Tools
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/168166?s=40&v=4" width="40"/>
+<img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" width="40"/>
+</p>
 
-<!--
-**RabibHossain/RabibHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img 
-     src="https://parrotify.github.io/baseparrots/original.gif" 
-     alt="Alt text" 
-     title="Optional title"
-     style="width: 20px; display: inline-block;"> ⌛<a href="https://wakatime.com/@1ca428f8-b90b-4ed8-b2c1-1870e44de261"><img src="https://wakatime.com/badge/user/1ca428f8-b90b-4ed8-b2c1-1870e44de261.svg" alt="Total time coded since Apr 27 2022" /></a>     
+### ⌛ Coding Time
+<p>
+<img src="https://parrotify.github.io/baseparrots/original.gif" width="20"/>
+<a href="https://wakatime.com/@1ca428f8-b90b-4ed8-b2c1-1870e44de261">
+  <img src="https://wakatime.com/badge/user/1ca428f8-b90b-4ed8-b2c1-1870e44de261.svg"/>
+</a>
+</p>
