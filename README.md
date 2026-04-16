@@ -78,9 +78,12 @@ Backend Engineer • Distributed Systems • AdTech
 <td>
 
 ### 🌐 Networks
-<a href="https://linkedin.com/in/rabibgalib"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="24"/></a>
-<a href="https://medium.com/@galib-rabib"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="24"/></a>
-<a href="https://www.hackerrank.com/galib_rabib"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="24"/></a>
+
+  <a href="https://linkedin.com/in/rabibgalib">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin"/>
+  </a> <a href="https://medium.com/@galib-rabib">
+    <img src="https://img.shields.io/badge/Medium-Read-black?style=flat-square&logo=medium"/>
+  </a>
 
 </td>
 </tr>
