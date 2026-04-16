@@ -2,7 +2,7 @@
 <h3 align="center">Rabib Galib</h3>
 
 <p align="center">
-Backend Engineer • Distributed Systems • AdTech
+Backend Engineer • Distributed Systems • AdTech • Cloud Video Infrastructure • OpenCart Extensions 
 </p>
 
 <p align="center">
