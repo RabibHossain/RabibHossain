@@ -6,16 +6,16 @@ Backend Engineer • Distributed Systems • AdTech
 </p>
 
 <p align="center">
-  <a href="mailto:galib.rabib@gmail.com">
+  <a href="mailto:galib.rabib@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/rabibgalib">
+  <a href="https://linkedin.com/in/rabibgalib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://medium.com/@galib-rabib">
+  <a href="https://medium.com/@galib-rabib" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" />
   </a>
-  <a href="https://www.hackerrank.com/galib_rabib">
+  <a href="https://www.hackerrank.com/galib_rabib" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
 </p>
@@ -92,9 +92,8 @@ Backend Engineer • Distributed Systems • AdTech
 ---
 
 ### ⌛ Coding Activity
-<p align="center">
-<img src="https://parrotify.github.io/baseparrots/original.gif" width="18"/>
-<a href="https://wakatime.com/@1ca428f8-b90b-4ed8-b2c1-1870e44de261">
+
+<img src="https://parrotify.github.io/baseparrots/original.gif" width="18"/> <a href="https://wakatime.com/@1ca428f8-b90b-4ed8-b2c1-1870e44de261">
 <img src="https://wakatime.com/badge/user/1ca428f8-b90b-4ed8-b2c1-1870e44de261.svg"/>
 </a>
-</p>
+
