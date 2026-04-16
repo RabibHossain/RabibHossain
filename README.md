@@ -15,7 +15,7 @@ Backend Engineer • Distributed Systems • AdTech
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔧 Backend
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36"/>
@@ -23,10 +23,9 @@ Backend Engineer • Distributed Systems • AdTech
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36"/>
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💾 Databases
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36"/>
